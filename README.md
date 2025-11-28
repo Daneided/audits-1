@@ -106,12 +106,12 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
     <img src="https://img.shields.io/badge/-$200M+_TVL-5924e1?style=flat" />
   </td>
 
-  <td width="29%" valign="top" style="text-align:left;">
-    <a href="https://github.com/pashov/audits/blob/master/team/pdf/Peapods-security-review_2024-11-16.pdf" target="_blank">
-      <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/PEAPODS.png" alt="Peapods Logo" height="28" />
-    </a>
-    <img src="https://img.shields.io/badge/-$98M+_TVL-5924e1?style=flat" />
-  </td>
+ <td width="29%" valign="top" style="text-align:left;">
+  <a href="https://github.com/pashov/audits/blob/master/team/pdf/StakeDAO-security-review_2025-07-21.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/StakeDAO.png" alt="StakeDAO Logo" height="28" />
+  </a>
+  <img src="https://img.shields.io/badge/-$200M+_TVL-5924e1?style=flat" />
+</td>
 
   <td width="30%" valign="top" style="text-align:left;">
     <a href="https://github.com/pashov/audits/blob/master/team/pdf/YieldBasis-security-review_2025-03-26.pdf" target="_blank">
@@ -162,7 +162,9 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 
 
   <td width="29%" valign="top" style="text-align:left;">
-    <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/PUMP2.png" alt="Pump Logo" height="28" />
+    <a href="https://github.com/pashov/audits/blob/master/team/pdf/Pump-security-review_2025-10-08.pdf" target="_blank">
+      <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/PUMP2.png" alt="Pump Logo" height="28" />
+    </a>
     <img src="https://img.shields.io/badge/-$290M+_TVL-5924e1?style=flat" />
   </td>
 
@@ -211,6 +213,10 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | Lucidly           | [2024-06-24](team/pdf/Lucidly-security-review-June.pdf), [2024-04-25](team/pdf/Lucidly-security-review.pdf)                        | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Increment         | [2024-02-12](team/pdf/Increment-security-review.pdf)                           | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Sharwa Finance    | [2024-06-17](team/pdf/SharwaFinance-security-review.pdf)                       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Agora    | [2025-06-05](team/pdf/AgoraStableSwap-security-review_2025-06-05.pdf)                       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+
+
+
 
 
 
@@ -225,6 +231,7 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | HypurrFi   | [2025-02-12](team/pdf/HypurrFi-security-review_2025-02-12.pdf)               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Hyperliquid   -234942?style=flat" />   |
 | Nucleus        | [2024-12-14](team/pdf/Nucleus-security-review_2024-12-14.pdf)    | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />  <img height="20" src="https://img.shields.io/badge/-   Hyperliquid   -234942?style=flat" />  |
 | Ion        | [2024-07-10](team/pdf/IonProtocol-security-review-July.pdf), [2024-04-29](team/pdf/IonProtocol-security-review.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Enclave   | [2025-10-25](team/pdf/Enclave-security-review_2025-10-25.pdf)                   | <img height="20" src="https://img.shields.io/badge/-   Rust       -b7410e?style=flat" />   |
 
 
 
@@ -235,15 +242,18 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | ----------- | -----------------------------------------------------------------------  | ------------------------------------------------------------------------------------------- |
 | Resolv      | [2025-07-25](team/pdf/Resolv-security-review_2025-07-25.pdf), [2025-05-14](team/pdf/Resolv-security-review_2025-05-14.pdf) <br> [2025-04-15](team/pdf/Resolv-security-review_2025-04-15.pdf), [2024-12-09](team/pdf/Resolv-security-review_2024-12-09.pdf) <br>  [2024-10-10](team/pdf/Resolv-security-review-October.pdf), [2024-08-26](team/pdf/Resolv-security-review-August.pdf) <br> [2024-07-27](team/pdf/Resolv-security-review.pdf)                 | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Ethena      | [2024-10-17](team/pdf/Ethena-security-review-October.pdf),  [2024-08-31](team/pdf/Ethena-security-review-August.pdf) <br> [2024-05-20](team/pdf/Ethena-security-review-May.pdf), [2024-02-20](team/pdf/Ethena-security-review-february.pdf) <br> [2023-12-19](team/pdf/Ethena-security-review.pdf)                   | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
-| Hyperstable | [2025-03-19](team/pdf/Hyperstable-security-review_2025-03-19.pdf), [2025-02-26](team/pdf/Hyperstable-security-review_2025-02-26.pdf)             | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Hyperliquid   -234942?style=flat" />  |
+| Hyperstable | [2025-03-19](team/pdf/Hyperstable-security-review_2025-03-19.pdf), [2025-02-26](team/pdf/Hyperstable-security-review_2025-02-26.pdf) <br> [2025-06-03](team/pdf/Hyperstable-security-review_2025-06-03.pdf)              | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Hyperliquid   -234942?style=flat" />  |
 | USDV        | [2025-03-06](team/pdf/USDV-security-review_2025-03-06.pdf)                    | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | YuzuUSD     | [2025-08-28](team/pdf/YuzuUSD-security-review_2025-08-28.pdf)                 | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Falcon      | [2025-02-17](team/pdf/Falcon-security-review_2025-02-17.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Roots       | [2025-02-09](team/pdf/Roots-security-review_2025-02-09.pdf)                   | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Dinari      | [2024-12-07](team/pdf/Dinari-security-review_2024-12-07.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
-| Ouroboros   | [2024-12-06](team/pdf/Ouroboros-security-review_2024-12-06.pdf)               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Ouroboros   | [2024-12-06](team/pdf/Ouroboros-security-review_2024-12-06.pdf), [2025-06-30](team/pdf/Ouroboros-security-review_2025-06-30.pdf)                | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | DYAD        | [2024-09-14](team/pdf/Dyad-security-review.pdf)                               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Open Dollar | [2024-04-17](team/pdf/OpenDollar-security-review.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Level | [2025-04-19](team/pdf/Level-security-review_2025-04-09.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Tangent | [2025-10-30](team/pdf/Tangent-security-review_2025-10-30.pdf)                         | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+
 
 
 
@@ -253,6 +263,7 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | ----------- | -----------------------------------------------------------------------        | ------------------------------------------------------------------------------------------ |
 | Euler Earn  | [2025-07-25](team/pdf/EulerEarn-security-review_2025-07-25.pdf)                | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | YieldBasis  | [2025-03-26](team/pdf/YieldBasis-security-review_2025-03-26.pdf)               | <img height="20" src="https://img.shields.io/badge/-   Vyper   -7062e9?style=flat" />   |
+| Stake DAO  | [2025-07-21](team/pdf/StakeDAO-security-review_2025-07-21.pdf)                | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Elixir      | [2025-08-17](team/pdf/Elixir-security-review_2025-08-17.pdf)                   | <img height="20" src="https://img.shields.io/badge/-   Move   -039ad1?style=flat" />   |
 | Reserve     | [2025-06-02](team/pdf/Reserve-security-review_2025-06-02.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Omo         | [2025-01-25](team/pdf/Omo-security-review_2025-01-25.pdf)                      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
@@ -279,8 +290,9 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 
 | Project                                | Report                                                                 | Labels                                                                             |
 | -------------------------------------- | ---------------------------------------------------------------------- | -----------------------------------------------------------------------------------|
-| Pump              | `2025-04-28`, `2025-03-18` <br>  `2024-10-11`, `2024-05-21` <br>  `2024-03-03`                                                                     | <img height="20" src="https://img.shields.io/badge/-   Rust       -b7410e?style=flat" />   |
+| Pump              | `2025-04-28`, `2025-03-18` <br>  `2024-10-11`, `2024-05-21` <br>  `2024-03-03` ,  [2025-10-08](team/pdf/Pump-security-review_2025-10-08.pdf) <br> [2025-06-26](team/pdf/Pump-security-review_2025-06-26.pdf) , [2025-04-28](team/pdf/Pump-security-review_2025-04-28.pdf) <br>  [2025-03-18](team/pdf/Pump-security-review_2025-03-18.pdf)                                                                   | <img height="20" src="https://img.shields.io/badge/-   Rust       -b7410e?style=flat" />   |
 | DeFi App              | [2025-01-08](team/pdf/DefiApp-security-review_2025-01-08.pdf)                 | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Aria Protocol              | [2025-05-12](team/pdf/Aria-security-review_2025-05-12.pdf), [2025-04-25](team/pdf/Aria-security-review_2025-04-25.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Desci                 | [2025-02-07](team/pdf/DesciLaunchpad-security-review_2025-02-07.pdf)          | <img height="20" src="https://img.shields.io/badge/-   Rust       -b7410e?style=flat" />   |
 | Pump Science          | [2024-12-24](team/pdf/PumpScience-security-review_2024-12-24.pdf)             | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Stardusts             | [2024-12-19](team/pdf/Stardusts-security-review_2024-12-19.pdf)               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
@@ -314,7 +326,7 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | -------------------------------------- | ----------------------------------------------------------------------------  | ------------------------------------------------------------------------------------------- |
 | Layer Zero – crosschain messaging     | [2024-09-18](team/pdf/LZOrbit-security-review.pdf), [2024-09-18²](team/pdf/LZRateLimiter-security-review.pdf) <br> [2024-09-12](team/pdf/LayerZero-security-review-September.pdf), [2024-05-15](team/pdf/LayerZero-security-review.pdf)               | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Rust       -b7410e?style=flat" />   |
 | Starknet - staking                    | [2024-07-31](team/pdf/Starknet-security-review_2025-07-31.pdf)              | <img height="20" src="https://img.shields.io/badge/-   Cairo   -df0000?style=flat" />   |
-| BOB – hybrid L2                  | [2024-09-05](team/pdf/BOB-security-review-September.pdf), [2024-08-09](team/pdf/BOB-security-review-August.pdf) <br>  [2024-06-24](team/pdf/BOB-security-review-June.pdf), [2024-04-19](team/pdf/BOB-USDCBridge-security-review.pdf) <br> [2024-04-19²](team/pdf/BOB-Onramp-security-review.pdf)     | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| BOB – hybrid L2                  | [2024-09-05](team/pdf/BOB-security-review-September.pdf), [2024-08-09](team/pdf/BOB-security-review-August.pdf) <br>  [2024-06-24](team/pdf/BOB-security-review-June.pdf), [2024-04-19](team/pdf/BOB-USDCBridge-security-review.pdf) <br> [2024-04-19²](team/pdf/BOB-Onramp-security-review.pdf), [2025-03-17](team/pdf/BOB-security-review_2025-03-17.pdf) <br>  [2025-10-18](team/pdf/BOB-Staking-security-review_2025-10-18.pdf)   | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Karak – restaking                     | [2024-04-10](team/pdf/Karak-security-review.pdf), [2024-06-30](team/pdf/Karak-security-review-June.pdf)                     | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Kinetiq - liquid staking              | [2025-02-26](team/pdf/Kinetiq-security-review_2025-02-26.pdf)              | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Hyperliquid   -234942?style=flat" />  |
 | Initia - widget  and router API       | [2024-06-17](team/pdf/Initia-security-review_2025-06-17.pdf)                | <img height="20" src="https://img.shields.io/badge/-   Typescript  -11698d?style=flat" />   |
@@ -322,10 +334,12 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | Itos - derivative engine              | [2025-05-24](team/pdf/Itos-security-review_2025-05-24.pdf)           | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Zipper – crosschain messaging          | [2025-05-05](team/pdf/Zipper-security-review_2025-05-05.pdf)        | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Spectra - interest rate derivatives    | [2025-01-17](team/pdf/Spectra-security-review_2025-01-17.pdf), [2024-02-24](team/pdf/Spectra-security-review.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Napier – Interest rate derivatives                | [2025-09-30](team/pdf/Napier-security-review_2025-09-30.pdf)      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Veil – privacy service                 | [2025-02-12](team/pdf/VeilCash-security-review_2025-02-12.pdf)      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Beam Nodes – cross-chain NFT minting   | [2025-01-28](team/pdf/BeamNodes-security-review_2025-01-28.pdf)     | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Azuro - prediction markets             | [2024-02-20](team/pdf/Azuro_security_review.pdf)                                | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Memecoin Prediction Markets            | [2025-08-07](team/pdf/MCP-security-review_2025-08-07.pdf)           | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| HYBUX - Token staking           | [2025-11-11](team/pdf/HYBUX-security-review_2025-11-11.pdf)           | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Clave - Account Abstraction            | [2024-12-23](team/pdf/Clave-security-review_2024-12-23.pdf), [2024-11-02](team/pdf/Clave-security-review_2024-11-02.pdf)                    | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Rivus – liquid staking                | [2024-10-28](team/pdf/Rivus-security-review-October.pdf), [2025-05-13](team/pdf/Rivus-security-review.pdf)             | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | apDAO – DAO                           | [2024-10-03](team/pdf/apDAO-security-review_2024-10-03.pdf)          | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
@@ -335,11 +349,15 @@ Reach out for a Pashov Audit Group smart contract security audit to me on [Teleg
 | StationX – community ownership        | [2024-06-05](team/pdf/StationX-security-review.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Noodles – Bonding curve for X accounts | [2025-03-11](team/pdf/Noodles-security-review_2025-03-11.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" /> |
 | Mass - Account Abstraction            | [2024-03-18](team/pdf/Mass-security-review.pdf)                      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| SXT - Token distribution and staking            | [2024-03-31](team/pdf/SXT-security-review_2025-03-31.pdf)                      | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Subsquid - distributed query engine   | [2024-01-29](team/pdf/Subsquid-security-review.pdf)                  | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | Covenant - Risk Tranching Protocol    | [2025-08-18](team/pdf/Covenant-security-review_2025-08-18.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | BiconomyNexus - Account Abstraction    | [2025-03-21](team/pdf/BiconomyNexus-security-review_2025-03-21.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | BiconomyComposability - Transaction Builder    | [2025-03-22](team/pdf/BiconomyComposability-security-review_2025-03-22.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 | stHype - Liquid Staking   | [2025-10-13](team/pdf/stHYPE-security-review_2025-10-13.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Tanssi - Interaction toolkit and Bridge   | [2025-04-30](team/pdf/Tanssi-security-review_2025-04-30.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Regnum Aurum - RWA Tokenization  | [2025-04-30](team/pdf/RegnumAurum-security-review_2025-08-12.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
+| Elytra - Liquid Restaking  | [2025-07-10](team/pdf/Elytra-security-review_2025-07-10.pdf), [2025-07-27](team/pdf/Elytra-security-review_2025-07-27.pdf)       | <img height="20" src="https://img.shields.io/badge/-   Solidity   -63698d?style=flat" />   |
 
 
 
